@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"kp"},{"l":"kp.math"},{"l":"kp.math.means"},{"l":"kp.math.means.bayes"},{"l":"kp.utils"}];updateSearchResults();
